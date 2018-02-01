@@ -1,5 +1,6 @@
 package io.swagger.api;
 
+import java.util.List;
 import io.swagger.model.ModelApiResponse;
 import io.swagger.model.Pet;
 import org.springframework.core.io.Resource;
